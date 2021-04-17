@@ -1,0 +1,23 @@
+[07-Aug-2019 06:13:44 UTC] PHP Fatal error:  Cannot redeclare Category::deleteCategory() in /home/ig2f9h8dfgn9/public_html/timeTvApplication/application/controllers/Category.php on line 180
+[03-Sep-2019 12:29:11 UTC] PHP Fatal error:  Cannot redeclare User::userUpdateProfile() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 294
+[03-Sep-2019 12:31:19 UTC] PHP Fatal error:  Cannot redeclare User::userUpdateProfile() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 294
+[26-Sep-2019 09:57:42 UTC] PHP Fatal error:  Cannot redeclare User::getEventDateWise() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 664
+[26-Sep-2019 10:00:09 UTC] PHP Fatal error:  Cannot redeclare User::getEventDateWise() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 664
+[26-Sep-2019 10:03:15 UTC] PHP Fatal error:  Cannot redeclare User::getEventDateWise() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 664
+[26-Sep-2019 10:03:31 UTC] PHP Fatal error:  Cannot redeclare User::getEventDateWise() in /home/ig2f9h8dfgn9/public_html/coralzApplication/application/controllers/api/User.php on line 664
+[07-Oct-2019 12:00:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ig2f9h8dfgn9/public_html/lottoKing/application/controllers/UserData.php on line 37
+[22-Oct-2019 13:20:36 UTC] PHP Fatal error:  Cannot redeclare User::getCurrentOrderList() in /home/ig2f9h8dfgn9/public_html/petroWagon/application/controllers/api/User.php on line 834
+[22-Oct-2019 13:21:08 UTC] PHP Fatal error:  Cannot redeclare User::getCurrentOrderList() in /home/ig2f9h8dfgn9/public_html/petroWagon/application/controllers/api/User.php on line 834
+[16-Jun-2020 07:31:23 UTC] PHP Fatal error:  Cannot redeclare Videos::view() in /home/w9egbdvalsxg/public_html/photofit/application/controllers/Videos.php on line 104
+[09-Jul-2020 08:03:54 UTC] PHP Notice:  Undefined index: log_path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 127
+[09-Jul-2020 08:03:54 UTC] PHP Notice:  Undefined index: log_path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 127
+[09-Jul-2020 08:03:54 UTC] PHP Warning:  mkdir(): Invalid path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 131
+[09-Jul-2020 08:03:54 UTC] PHP Notice:  Undefined index: log_threshold in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 138
+[09-Jul-2020 08:03:54 UTC] PHP Notice:  Undefined index: log_threshold in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 142
+[09-Jul-2020 08:04:05 UTC] PHP Notice:  Undefined index: log_path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 127
+[09-Jul-2020 08:04:05 UTC] PHP Notice:  Undefined index: log_path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 127
+[09-Jul-2020 08:04:05 UTC] PHP Warning:  mkdir(): Invalid path in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 131
+[09-Jul-2020 08:04:05 UTC] PHP Notice:  Undefined index: log_threshold in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 138
+[09-Jul-2020 08:04:05 UTC] PHP Notice:  Undefined index: log_threshold in /home/ig2f9h8dfgn9/public_html/photofit/system/core/Log.php on line 142
+[09-Jul-2020 10:58:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ig2f9h8dfgn9/public_html/photofit/application/controllers/api/User.php on line 3037
+[09-Jul-2020 10:58:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ig2f9h8dfgn9/public_html/photofit/application/controllers/api/User.php on line 3037
